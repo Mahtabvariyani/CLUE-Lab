@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(./images/backGround.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: max-content;
+
+}
+
+div{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+button{
+    margin: 5px;
+}
+li{
+    color: #fff;
+    display: flex;
+    font-size: 14px;
+    padding-left: 20px;
+
+}
+h1{
+    color: #f33fba;
+}
